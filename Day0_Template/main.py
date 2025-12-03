@@ -1,4 +1,4 @@
-input = open("input.txt","r").read().split(',')
+input = open("input.txt","r").read().splitlines()
 
 data = []
 
